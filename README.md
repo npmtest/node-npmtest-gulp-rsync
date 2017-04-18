@@ -1,7 +1,10 @@
-# test coverage for  [gulp-rsync (v0.0.7)](https://github.com/jerrysu/gulp-rsync)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-rsync.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-rsync) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-rsync.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-rsync)
+# npmtest-gulp-rsync
+
+#### test coverage for  [gulp-rsync (v0.0.7)](https://github.com/jerrysu/gulp-rsync)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-rsync.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-rsync) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-rsync.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-rsync)
+
 #### Rsync tasks for deploying gulp file structures
 
-[![NPM](https://nodei.co/npm/gulp-rsync.png?downloads=true)](https://www.npmjs.com/package/gulp-rsync)
+[![NPM](https://nodei.co/npm/gulp-rsync.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-rsync)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-gulp-rsync/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gulp-rsync/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-rsync/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-rsync/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-rsync/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-rsync/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-gulp-rsync/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-gulp-rsync/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gulp-rsync/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-gulp-rsync/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-gulp-rsync%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-gulp-rsync/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-rsync/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-gulp-rsync/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-rsync/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-gulp-rsync%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-rsync/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-gulp-rsync/build/test-report.html](https://npmtest.github.io/node-npmtest-gulp-rsync/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-gulp-rsync/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-gulp-rsync/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-gulp-rsync/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-gulp-rsync/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-rsync/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-rsync/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-gulp-rsync/build/screenCapture.npmPackageListing.svg)
 
@@ -27,8 +36,7 @@
 
 {
     "author": {
-        "name": "Jerry Su",
-        "email": "email@jerrysu.me"
+        "name": "Jerry Su"
     },
     "bugs": {
         "url": "https://github.com/jerrysu/gulp-rsync/issues"
@@ -63,17 +71,14 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "ebaskoro",
-            "email": "eki@baskoro.org"
+            "name": "ebaskoro"
         },
         {
-            "name": "jerrysu",
-            "email": "email@jerrysu.me"
+            "name": "jerrysu"
         }
     ],
     "name": "gulp-rsync",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/jerrysu/gulp-rsync.git"
