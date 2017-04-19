@@ -1,6 +1,6 @@
 # npmtest-gulp-rsync
 
-#### test coverage for  [gulp-rsync (v0.0.7)](https://github.com/jerrysu/gulp-rsync)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-rsync.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-rsync) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-rsync.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-rsync)
+#### basic test coverage for  [gulp-rsync (v0.0.7)](https://github.com/jerrysu/gulp-rsync)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-rsync.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-rsync) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-rsync.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-rsync)
 
 #### Rsync tasks for deploying gulp file structures
 
